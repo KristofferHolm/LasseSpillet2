@@ -1,0 +1,566 @@
+Navn,Efternavn,Adresse,Beskrivelser,Post nr,By,Stilling
+Nikolaj,Jensen,Østerbro ,Kan stave i morsekode baglæns,1301,København K,Lego League Dommer
+Kristoffer, Holm, Langevej, Drikker sin kaffe kold,2000,Frederiksberg, Fisker
+Leander, Lind, H. P. Lovevej,Drikker sin øl varm,2100,København Ø, Skolelærer 
+Champagne, Petersen, Djævlegade,Har altid forskellige sokker på,2200,København N, Programmør 
+ Pi, Albertsen , Fortroligvej ,Har aldrig forskellige sokker på,2300,København S, Stripper
+ Ivana, Nuknuk, Smukvej,Spiser kun risengrød,2400,København NV, Socialrådgiver 
+ Svend, leet , Grimvej, Er bange for tog,2450,København SV, Sorter 
+ Mette, Strøm, Forfærdligvej, Kan køre i bus,2500,Valby,Salgsassistent REMA 1000
+ Rudolf,Dam, Dejvej, Har en samling af flaskekapsler ,2600,Glostrup,Salgsassistent NETTO
+ Alexander, Kjærsgaard , Hyggevej, Har 7 katte og 1 hund,2605,Brøndby, Salgsassistent Super Brugsen
+ Morten, Sand, Festvej, Bor i en trailer,2610,Rødovre, Salgsassistent MENY 
+ Lukas, Stork, Bogfinkevej,Er Kronisk løgner,2625,Vallensbæk, Salgsassistent FØTEX 
+ Viggo, Holger, Cancervej, Græder når der skal samles Ikea moduler,2630,Taastrup, IKEA Samler 
+Lasse, Nissen, Ølvej,Har set alle sæsoner af Friends 10 gange,2635,Ishøj, CEO i OEC 
+Lotte, Juul, IPAvej, Drømmer om at blive en Astronaut og arbejde for SpaceX,2640,Hedehusene, Afdelingsleder af afdelingsuddannelsen 
+ Johannes, Berg, Vodkavej, Er afhængig af ost,2650,Hvidovre, Arbejdsmiljøkonsulent 
+ Finn, Lie Kaas, Ginvej, Er Danmarksmester i Poetry Slam,2660,Brøndby Strand, Bygningskonstruktør 
+ Peter, Bertelsen, Snapsvej, Har aldrig været i et andet land end Danmark,2665,Vallensbæk Strand, Sprængningsekspert 
+ John, Mikkelsen , Julevej, Har engang skudt en isbjørn på Island,2670,Greve, Professionel bryllupsgæst
+ Ivan, Bang, Hvidtølvej, Har en kælefugleæderkop ,2670,Greve Strand,Professionel Netflixer
+ Hope, Bjerre, Whiskeyvej, Har engang sunket en båd der hed Pyt,2680,Solrød Strand, Professionel vandrutsjebanetester
+ Liv, Dalsgaard , Romvej,Klassisk catchphrase: Can you have it good,2690,Karlslunde, Cykelfisker i Amsterdam
+Brian, Hoffmann , Javej,Har den perfekte pitch,2700,Brønshøj,Testfamilie for LEGOLAND
+ Jonas, Henriksen , Nejvej, Kan ikke læse,2720,Vanløse, Ballonmand 
+William,Ahmad, Måskevej, Skriver kun på skrivemaskine,2730,Herlev,PJERROT i Tivoli 
+Alfred,Ahmed, Ahavej, Hader børn,2740,Skovlunde, Guldgraver
+Oscar,Ali, Åhnejvej, Kan ikke lide rugbrød,2750,Ballerup, Sømand
+Noah,Andersen, Hohohovej, Er barnlig af sind ,2760,Måløv, Pirat 
+Karl,Andersson, Katvej, Kan ikke udtale Rød Grød Med Fløde,2765,Smørum, Terrorist 
+Lucas,Andreasen, Hundevej, Er forhenværende statsminister,2770,Kastrup, Arkitekt 
+	Oliver,Andreassen, Elefantvej, Verdensmester i Ping Pong,2791,Dragør,Pilot
+Arthur,Andresen, Musvej, Har været til alle Roskilde Festivaler nogensinde,2800,Kongens Lyngby,Hospitalslæge
+August,Asmussen, Fuglevej,Har en tatovering med Mor,2820,Gentofte,Praktiserende Læge
+Malthe,Bach, Dinosaurvej, Kan godt lide at sejle,2830,Virum,Advokat
+Valdemar,Bak, Flyvendespagettimonstervej, Er fan af ordet Pyt,2840,Holte,Universitetslektor
+Emil,Bang, Gudvej, Griner af Dad Jokes,2850,Nærum,Civilingeniør
+Victor,Bech, Satanvej, Er fan af joken: Hvad kalder man en ordblind hval der ligger på bunden af havet og griner? Et pjattedyr,2860,Søborg,Forsker i privat virksomhed
+Aksel,Beck, Forkertvej,Svarer kun E-mails med emojis ,2880,Bagsværd,Jordemoder
+	Elias,Bendtsen, Rigtigevej,Er fan af bandet Rockburn,2900,Hellerup,Tandlæge
+Magnus,Berg, Denhervej, Foretrækker Gasgril ,2920,Charlottenlund,Psykolog
+Anton,Bertelsen, Iknowthewayvej, Er medlem af Red Barnet,2930,Klampenborg,Skuespiller
+Felix,Berthelsen, 1vej, Ville ønske de var medlem af Red Barnet,2942,Skodsborg,Fodboldspiller
+Frederik,Bisgård, 2vej, Har været et reddet barn i Red Barnet,2950,Vedbæk,Modedesigner
+Nohr,Bisgaard, 3vej, Lader kun sine børn spille computer 1 time om dagen,2960,Rungsted Kyst,Falckmand/redder
+Theo,Bjerre, talvej, Har ikke kørekort men elsker at køre bil,2970,Hørsholm,Forfatter
+Elliot,Bjerregård, bogstavvej, Spiser ofte ude ,2980,Kokkedal,Revisor
+Otto,Bjerregaard, vejenvej, Bestiller Pokemon kort online,2990,Nivå,Filmfotograf/tv fotograf
+Lauge,Bonde, Du Går Den Forkerte Vej, Har en madklub ,3000,Helsingør,Musiker/Sanger
+Liam,Brandt, I dag vej, Er ikke med i en madklub,3050,Humlebæk,Kontanthjælpsmodtager
+Emma,Brodersen, igårvej, Vil gerne være med i et band,3060,Espergærde,Dagpengemodtager
+Alma,Bruun, imorgenvej, Holder altid nytårsaften ude,3070,Snekkersten,Reklameomdeler/bud
+Clara,Buch, inæsteugevej, Holder altid nytårsaften hjemme,3080,Tikøb,Parkeringsvagt
+Freja,Bundgård, næstemånedvej, Køber kun ting analogt ,3100,Hornbæk,Rengøringsassistent
+Sofia,Bundgaard, næsteårvej, Har en dårlig humor ,3120,Dronningmølle,Kassedame/kasseassistent
+Karla,Carlsen, vej vejen, Har ingen humor ,3140,Ålsgårde,Ufaglært bygningsarbejder
+Agnes,Carstensen, vej vej vejen, Mangler humør ,3150,Hellebæk,Taxichauffør
+Ella,Christensen, allesvej, Har haft operation for et knust hjerte ,3200,Helsinge,Vinduespudser
+Olivia,Christiansen,ingensvej, Er glad for planter,3210,Vejby,Lagerarbejder
+Anna,Christoffersen,en eller anden vej, Hader oksygen,3220,Tisvildeleje,
+Nora,Clausen,gåvækvej,Er stor fan a H20,3230,Græsted,Oversætter/translatør
+Alberte,Dahl,komhidvej, Spiser laks hver dag,3250,Gilleleje,Bibliotekar
+Ida,Dalgård,komallevej, Er vinterbader om sommeren,3300,Frederiksværk,Multimediekunstner
+Luna,Dalgaard,alleforenvej, Vinterbader altid nøgen,3310,Ølsted,Kurator
+Asta,Dalsgård,enforallevej, Kan ikke få sin kone med til vinterbadning ,3320,Skævinge,TV- og Radio tekniker
+Ellie,Dalsgaard,vejlevej, Laver sin egen snaps,3330,Gørløse,Præst
+Laura,Dam,finvej, Køber sin egen snaps,3360,Liseleje,Kommunikatør
+Isabella,Damgård,grimvej, Kører altid i modsat retning ,3370,Melby,Advertising Account Executive (Reklamebranchen)
+Lily,Damgaard,lynvej, Spiser hunde men ikke i Kina,3390,Hundested,Redaktør
+Frida,Danielsen,skyvej,Er stor fan a Corona øl ,3400,Hillerød,Maler
+Aya,Davidsen,himmelvej, Tror Corona er et meteorologisk fænomen,3460,Birkerød,Koreograf
+Astrid,Enevoldsen,planetvej,Har en fætter der hedder Corona til efternavn,3480,Fredensborg,Fotograf
+Ellen,Eriksen,meteorvej, Tror Corona er en by i Sverige ,3490,Kvistgård,Modedesigner
+Mathilde,Eskildsen,kometvej, Har gættet på Corona mange gange i Kahoots ,3500,Værløse,Annoncesælger
+Lærke,Fischer,galaksevej,Har Coronafobi. Bliver bange hver gang man nævner Corona ,3520,Farum,Fotojournalist
+Maja,Fisker,stjernevej, Kan ikke udstå folk på TV der bliver stukket med Coronavaccine ,3540,Lynge,Radio/TV Journalist
+Esther,Frandsen,håndvåbenvej, Første ord efter de blev født var Corona,3550,Slangerup,Journalist (dagbladene)
+Liva,Frederiksen,granatvej, Har arbejdet ved Danish Corona,3600,Frederikssund,Audiologist
+Sofie,Friis,maskinpistolvej,kan ikke kende forskel på Corona og Krone,3630,Jægerspris,Biomedicinsk ingeniør
+Marie,Frost,RPGvej, Tror Covid-19 er et andet ord for Coke,3650,Ølstykke,Tandplejer
+Mille,Gade,BFGvej, Har set Indiana Jones og husker båden Corona,3660,Stenløse,Ergoterapeut
+Storm,Gregersen,Landminevej, Tror at 5G er skyld i Corona ,3670,Veksø Sjælland,Talepædagog
+Adam,Hald,Misilvej, Tror at Jorden er blevet flad på grund af Corona,3700,Rønne,Diætist
+Pelle,Hansen,Bananvej,Tror at Corona var skyld i 9/11,3720,Aakirkeby,optometrist
+Erik,Hassan, Alangvej, Tror at folk der har fået Corona har været oppe i en UFO og blevet sendt tilbage til jorden,3730,Nexø,Fysioterapeut
+Mathias,Hedegård,Blangvej,Største motte er: Corona did nothing wrong,3740,Svaneke,Lægesekretær
+Marius,Hedegaard,Akortvej,Er meget et meget positiv menneske,3751,Østermarie,Kiropraktor
+Walter,Hemmingsen,Blangvej,Drømmer om at få et positivt svar tilbage fra Corona der var negativt,3760,Gudhjem,Apoteker
+Mads,Henningsen,Rush A vej,Har været til beach party hvor alle havde Corona men fik det ikke,3770,Allinge,Medicinsk laboratorie assistent
+Mikkel,Henriksen,Rush B vej,Var den eneste der havde Corona til Banko,3782,Klemensker,Ortopæd
+Adam,Hermansen,Tetrisvej, Fik Corona fra en myg,3790,Hasle,Optiker
+Loui,Hjorth, Donkey Kong Vej, Har været ude og klatre i bjerge i Slovakiet fik Corona af en ged,4000,Roskilde,Ortodontist
+Otto,Hoffmann, Bombermand Vej, Så for mange udsendelser med Donald Trump fik Corona,4040,Jyllinge,Psykiater
+Asger,Holm, Mario Vej,Vasker ikke hænder efter at have været på toilettet er positiv med Corona,4050,Skibby,Dyrlæge
+Benjamin,Holst,Luigi Vej, Er postitivt indstillet på livet men også positiv med Corona,4060,Kirke Såby,Hudplejespecialist
+Villum,Hougård, Peach Vej, Har kun mundbind på under oralsex men har stadig Corona ,4070,Kirke Hyllinge,Tandlæge
+Konrad,Hougaard, Kong Kupa Vej, Går en lang tur hver dag spiser sundt dyrker Crossfit men har Corona.,4100,Ringsted,Lægesekretær
+Matheo,Ibsen, Planteæder Vej, Tog engang en pil i knæet og har Corona,4130,Viby Sjælland,Fysiolog
+Christian,Iversen, Goomba Vej, Er ordblind og kan ikke stave til Corona men har Corona,4140,Borup,Tandlægeassistent
+Johan,Jacobsen, Koopa Vej,Er blevet testet positiv med Corona,4160,Herlufmagle,Åndedrætsterapeut
+null,null,null,null,4281,Gørlev,Socialrådgiver
+null,null,null,null,4291,Ruds Vedby,Psykolog
+null,null,null,null,4293,Dianalund,Social and community manager
+null,null,null,null,4295,Stenlille,Praktiserende læge
+null,null,null,null,4296,Nyrup,Sygeplejerske
+null,null,null,null,4300,Holbæk,Pædagogmedhjælper
+null,null,null,null,4320,Lejre,Fritidsmedarbejder
+null,null,null,null,4330,Hvalsø,Matematiker
+null,null,null,null,4340,Tølløse,Fysiker
+null,null,null,null,4350,Ugerløse,Astronom
+null,null,null,null,4360,Kirke Eskilstrup,Universitetsprofessor
+null,null,null,null,4370,Store Merløse,Sociolog
+null,null,null,null,4390,Vipperød,Klinisk laboratorie assistent
+null,null,null,null,4400,Kalundborg,Geolog
+null,null,null,null,4420,Regstrup,Miljøingeniør
+null,null,null,null,4440,Mørkøv,Historiker
+null,null,null,null,4450,Jyderup,Biolog
+null,null,null,null,4460,Snertinge,Studievejleder
+null,null,null,null,4470,Svebølle,Landbrugsforsker
+null,null,null,null,4480,Store Fuglede,Kemiker
+null,null,null,null,4490,Jerslev,Antropolog
+null,null,null,null,4500,Nykøbing Sj,Arkæolog
+null,null,null,null,4520,Svinninge, Zoolog
+null,null,null,null,4532,Gislinge,Rektor
+null,null,null,null,4534,Hørve,Skolelærer
+null,null,null,null,4540,Fårevejle,Petroleums ingeniør
+null,null,null,null,4550,Asnæs,Civilingenør
+null,null,null,null,4560,Vig,Maskinreparatør
+null,null,null,null,4571,Grevinge,Industri ingeniør
+null,null,null,null,4572,Nørre Asmindrup,Maskiningeniør
+null,null,null,null,4573,Højby,Kernekraftingeniør
+null,null,null,null,4581,Rørvig,Elektrisk ingeniør
+null,null,null,null,4583,Sjællands Odde,Reparatør
+null,null,null,null,4591,Føllenslev,Arkitekttegner
+null,null,null,null,4592,Sejerø,Bygningsinspektør
+null,null,null,null,4593,Eskebjerg,Industridesigner
+null,null,null,null,4600,Køge,Bilmekaniker
+null,null,null,null,4621,Gadstrup,Maskinist
+null,null,null,null,4622,Havdrup,Byggeinspektør
+null,null,null,null,4623,Lille Skensved,Gaffeltruckfører
+null,null,null,null,4632,Bjæverskov,Rensningsanlægsarbejder
+null,null,null,null,4640,Fakse,Svejser
+null,null,null,null,4652,Hårlev,Maskinoperatør
+null,null,null,null,4653,Karise,Ansat på boreplatform
+null,null,null,null,4654,Fakse Ladeplads,Præcisionsmekaniker
+null,null,null,null,4660,Store Heddinge,Stålarbejder
+null,null,null,null,4671,Strøby,Kernekraft/dekontamineringstekniker
+null,null,null,null,4672,Klippinge,Metalarbejder
+null,null,null,null,4673,Rødvig Stevns,Maskinarbejder
+null,null,null,null,4681,Herfølge,Havnearbejder
+null,null,null,null,4682,Tureby,Proffesionel Gamer
+null,null,null,null,4683,Rønnede,Aktuar
+null,null,null,null,4684,Holme-Olstrup,Juridisk assitent/sekretær
+null,null,null,null,4690,Haslev,Direktionsassitent
+null,null,null,null,4700,Næstved,Revisor
+null,null,null,null,4720,Præstø,Bogholder
+null,null,null,null,4733,Tappernøje,Stenograf
+null,null,null,null,4735,Mern,Dommer
+null,null,null,null,4736,Karrebæksminde,Tegningsgarant
+null,null,null,null,4750,Lundby,Fængselsbetjent
+null,null,null,null,4760,Vordingborg,Skatteopkræver
+null,null,null,null,4771,Kalvehave,Skatterådgiver
+null,null,null,null,4772,Langebæk,Advokat
+null,null,null,null,4773,Stensved,General
+null,null,null,null,4780,Stege,Politimand
+null,null,null,null,4791,Borre,Fængselsbetjent
+null,null,null,null,4792,Askeby,Udsendt i militæret
+null,null,null,null,4793,Bogø By,Human resources manager
+null,null,null,null,4800,Nykøbing F,Økonom
+null,null,null,null,4840,Nørre Alslev,Finansiel/bankrådgiver
+null,null,null,null,4850,Stubbekøbing,Lånerådgiver
+null,null,null,null,4862,Guldborg,Sustainability manager
+null,null,null,null,4863,Eskilstrup,Ledelseskonsulent
+null,null,null,null,4871,Horbelev,Markedsanalytiker
+null,null,null,null,4872,Idestrup,Rekruttør
+null,null,null,null,4873,Væggerløse,Virksomhedsleder
+null,null,null,null,4874,Gedser,Bankansat
+null,null,null,null,4880,Nysted,Børsmægler
+null,null,null,null,4891,Toreby L,Salgsrepræsentant
+null,null,null,null,4892,Kettinge,Forsikringsagent
+null,null,null,null,4894,Øster Ulslev,Hotelejer
+null,null,null,null,4895,Errindlev,Data-specialist
+null,null,null,null,4900,Nakskov,Statistiker
+null,null,null,null,4912,Harpelunde,Software ingeniør
+null,null,null,null,4913,Horslunde,Computer-analytiker
+null,null,null,null,4920,Søllested,Computer- og netværks administrator
+null,null,null,null,4930,Maribo,Metrolog
+null,null,null,null,4941,Bandholm,Programmør
+null,null,null,null,4943,Torrig L,Webudvikler
+null,null,null,null,4944,Fejø,Social Media Manager
+null,null,null,null,4951,Nørreballe,Computertekniker
+null,null,null,null,4952,Stokkemarke,Miljøforkæmper
+null,null,null,null,4953,Vesterborg,Skibsarbejder
+null,null,null,null,4960,Holeby,landinspektør
+null,null,null,null,4970,Rødby,Skadedyrsbekæmper
+null,null,null,null,4983,Dannemare,Dyrepasser
+null,null,null,null,4990,Sakskøbing,Landmand
+null,null,null,null,5000,Odense C,mejerist
+null,null,null,null,5200,Odense V,Skovhugger
+null,null,null,null,5210,Odense NV,Professionel Sortseer 
+null,null,null,null,5220,Odense SØ,null
+null,null,null,null,5230,Odense M,null
+null,null,null,null,5240,Odense NØ,null
+null,null,null,null,5250,Odense SV,null
+null,null,null,null,5260,Odense S,null
+null,null,null,null,5270,Odense N,null
+null,null,null,null,5290,Marslev,null
+null,null,null,null,5300,Kerteminde,null
+null,null,null,null,5330,Munkebo,null
+null,null,null,null,5350,Rynkeby,null
+null,null,null,null,5370,Mesinge,null
+null,null,null,null,5380,Dalby,null
+null,null,null,null,5390,Martofte,null
+null,null,null,null,5400,Bogense,null
+null,null,null,null,5450,Otterup,null
+null,null,null,null,5462,Morud,null
+null,null,null,null,5463,Harndrup,null
+null,null,null,null,5464,Brenderup,null
+null,null,null,null,5466,Asperup,null
+null,null,null,null,5471,Søndersø,null
+null,null,null,null,5474,Veflinge,null
+null,null,null,null,5485,Skamby,null
+null,null,null,null,5491,Blommenslyst,null
+null,null,null,null,5492,Vissenbjerg,null
+null,null,null,null,5500,Middelfart,null
+null,null,null,null,5540,Ullerslev,null
+null,null,null,null,5550,Langeskov,null
+null,null,null,null,5560,Aarup,null
+null,null,null,null,5580,Nørre Aaby,null
+null,null,null,null,5591,Gelsted,null
+null,null,null,null,5592,Ejby,null
+null,null,null,null,5600,Faaborg,null
+null,null,null,null,5610,Assens,null
+null,null,null,null,5620,Glamsbjerg,null
+null,null,null,null,5631,Ebberup,null
+null,null,null,null,5642,Millinge,null
+null,null,null,null,5672,Broby,null
+null,null,null,null,5683,Haarby,null
+null,null,null,null,5690,Tommerup,null
+null,null,null,null,5700,Svendborg,null
+null,null,null,null,5750,Ringe,null
+null,null,null,null,5762,Vester Skerninge,null
+null,null,null,null,5771,Stenstrup,null
+null,null,null,null,5772,Kværndrup,null
+null,null,null,null,5792,Årslev,null
+null,null,null,null,5800,Nyborg,null
+null,null,null,null,5853,Ørbæk,null
+null,null,null,null,5854,Gislev,null
+null,null,null,null,5856,Ryslinge,null
+null,null,null,null,5863,Ferritslev Fyn,null
+null,null,null,null,5871,Frørup,null
+null,null,null,null,5874,Hesselager,null
+null,null,null,null,5881,Skårup Fyn,null
+null,null,null,null,5882,Vejstrup,null
+null,null,null,null,5883,Oure,null
+null,null,null,null,5884,Gudme,null
+null,null,null,null,5892,Gudbjerg,null
+null,null,null,null,5900,Rudkøbing,null
+null,null,null,null,5932,Humble,null
+null,null,null,null,5935,Bagenkop,null
+null,null,null,null,5953,Tranekær,null
+null,null,null,null,5960,Marstal,null
+null,null,null,null,5970,Ærøskøbing,null
+null,null,null,null,5985,Søby Ærø,null
+null,null,null,null,6000,Kolding,null
+null,null,null,null,6040,Egtved,null
+null,null,null,null,6051,Almind,null
+null,null,null,null,6052,Viuf,null
+null,null,null,null,6064,Jordrup,null
+null,null,null,null,6070,Christiansfeld,null
+null,null,null,null,6091,Bjert,null
+null,null,null,null,6092,Sønder Stenderup,null
+null,null,null,null,6093,Sjølund,null
+null,null,null,null,6094,Hejls,null
+null,null,null,null,6100,Haderslev,null
+null,null,null,null,6200,Aabenraa,null
+null,null,null,null,6230,Rødekro,null
+null,null,null,null,6240,Løgumkloster,null
+null,null,null,null,6261,Bredebro,null
+null,null,null,null,6270,Tønder,null
+null,null,null,null,6280,Højer,null
+null,null,null,null,6300,Gråsten,null
+null,null,null,null,6310,Broager,null
+null,null,null,null,6320,Egernsund,null
+null,null,null,null,6330,Padborg,null
+null,null,null,null,6340,Kruså,null
+null,null,null,null,6360,Tinglev,null
+null,null,null,null,6372,Bylderup-Bov,null
+null,null,null,null,6392,Bolderslev,null
+null,null,null,null,6400,Sønderborg,null
+null,null,null,null,6430,Nordborg,null
+null,null,null,null,6440,Augustenborg,null
+null,null,null,null,6470,Sydals,null
+null,null,null,null,6500,Vojens,null
+null,null,null,null,6510,Gram,null
+null,null,null,null,6520,Toftlund,null
+null,null,null,null,6535,Branderup J,null
+null,null,null,null,6541,Bevtoft,null
+null,null,null,null,6560,Sommersted,null
+null,null,null,null,6580,Vamdrup,null
+null,null,null,null,6600,Vejen,null
+null,null,null,null,6621,Gesten,null
+null,null,null,null,6622,Bække,null
+null,null,null,null,6623,Vorbasse,null
+null,null,null,null,6630,Rødding,null
+null,null,null,null,6640,Lunderskov,null
+null,null,null,null,6650,Brørup,null
+null,null,null,null,6660,Lintrup,null
+null,null,null,null,6670,Holsted,null
+null,null,null,null,6682,Hovborg,null
+null,null,null,null,6683,Føvling,null
+null,null,null,null,6690,Gørding,null
+null,null,null,null,6700,Esbjerg,null
+null,null,null,null,6701,Esbjerg,null
+null,null,null,null,6705,Esbjerg Ø,null
+null,null,null,null,6710,Esbjerg V,null
+null,null,null,null,6715,Esbjerg N,null
+null,null,null,null,6720,Fanø,null
+null,null,null,null,6731,Tjæreborg,null
+null,null,null,null,6740,Bramming,null
+null,null,null,null,6752,Glejbjerg,null
+null,null,null,null,6760,Ribe,null
+null,null,null,null,6771,Gredstedbro,null
+null,null,null,null,6780,Skærbæk,null
+null,null,null,null,6792,Rømø,null
+null,null,null,null,6800,Varde,null
+null,null,null,null,6818,Årre,null
+null,null,null,null,6823,Ansager,null
+null,null,null,null,6830,Nørre Nebel,null
+null,null,null,null,6840,Oksbøl,null
+null,null,null,null,6851,Janderup,null
+null,null,null,null,6852,Billum,null
+null,null,null,null,6853,Vejers Strand,null
+null,null,null,null,6854,Henne,null
+null,null,null,null,6855,Outrup,null
+null,null,null,null,6857,Blåvand,null
+null,null,null,null,6862,Tistrup,null
+null,null,null,null,6870,Ølgod,null
+null,null,null,null,6880,Tarm,null
+null,null,null,null,6893,Hemmet,null
+null,null,null,null,6900,Skjern,null
+null,null,null,null,6920,Videbæk,null
+null,null,null,null,6933,Kibæk,null
+null,null,null,null,6940,Lem St,null
+null,null,null,null,6950,Ringkøbing,null
+null,null,null,null,6960,Hvide Sande,null
+null,null,null,null,6971,Spjald,null
+null,null,null,null,6973,Ørnhøj,null
+null,null,null,null,6980,Tim,null
+null,null,null,null,6990,Ulfborg,null
+null,null,null,null,7000,Fredericia,null
+null,null,null,null,7080,Børkop,null
+null,null,null,null,7100,Vejle,null
+null,null,null,null,7120,Vejle Øst,null
+null,null,null,null,7130,Juelsminde,null
+null,null,null,null,7140,Stouby,null
+null,null,null,null,7150,Barrit,null
+null,null,null,null,7160,Tørring,null
+null,null,null,null,7171,Uldum,null
+null,null,null,null,7173,Vonge,null
+null,null,null,null,7182,Bredsten,null
+null,null,null,null,7183,Randbøl,null
+null,null,null,null,7184,Vandel,null
+null,null,null,null,7190,Billund,null
+null,null,null,null,7200,Grindsted,null
+null,null,null,null,7250,Hejnsvig,null
+null,null,null,null,7260,Sønder Omme,null
+null,null,null,null,7270,Stakroge,null
+null,null,null,null,7280,Sønder Felding,null
+null,null,null,null,7300,Jelling,null
+null,null,null,null,7321,Gadbjerg,null
+null,null,null,null,7323,Give,null
+null,null,null,null,7330,Brande,null
+null,null,null,null,7361,Ejstrupholm,null
+null,null,null,null,7362,Hampen,null
+null,null,null,null,7400,Herning,null
+null,null,null,null,7430,Ikast,null
+null,null,null,null,7441,Bording,null
+null,null,null,null,7442,Engesvang,null
+null,null,null,null,7451,Sunds,null
+null,null,null,null,7470,Karup J,null
+null,null,null,null,7480,Vildbjerg,null
+null,null,null,null,7490,Aulum,null
+null,null,null,null,7500,Holstebro,null
+null,null,null,null,7540,Haderup,null
+null,null,null,null,7550,Sørvad,null
+null,null,null,null,7560,Hjerm,null
+null,null,null,null,7570,Vemb,null
+null,null,null,null,7600,Struer,null
+null,null,null,null,7620,Lemvig,null
+null,null,null,null,7650,Bøvlingbjerg,null
+null,null,null,null,7660,Bækmarksbro,null
+null,null,null,null,7673,Harboøre,null
+null,null,null,null,7680,Thyborøn,null
+null,null,null,null,7700,Thisted,null
+null,null,null,null,7730,Hanstholm,null
+null,null,null,null,7741,Frøstrup,null
+null,null,null,null,7742,Vesløs,null
+null,null,null,null,7752,Snedsted,null
+null,null,null,null,7755,Bedsted Thy,null
+null,null,null,null,7760,Hurup Thy,null
+null,null,null,null,7770,Vestervig,null
+null,null,null,null,7790,Thyholm,null
+null,null,null,null,7800,Skive,null
+null,null,null,null,7830,Vinderup,null
+null,null,null,null,7840,Højslev,null
+null,null,null,null,7850,Stoholm,null
+null,null,null,null,7860,Spøttrup,null
+null,null,null,null,7870,Roslev,null
+null,null,null,null,7884,Fur,null
+null,null,null,null,7900,Nykøbing M,null
+null,null,null,null,7950,Erslev,null
+null,null,null,null,7960,Karby,null
+null,null,null,null,7970,Redsted M,null
+null,null,null,null,7980,Vils,null
+null,null,null,null,7990,Øster Assels,null
+null,null,null,null,8000,Århus C,null
+null,null,null,null,8200,Århus N,null
+null,null,null,null,8210,Århus V,null
+null,null,null,null,8220,Brabrand,null
+null,null,null,null,8230,Åbyhøj,null
+null,null,null,null,8240,Risskov,null
+null,null,null,null,8250,Egå,null
+null,null,null,null,8260,Viby J,null
+null,null,null,null,8270,Højbjerg,null
+null,null,null,null,8300,Odder,null
+null,null,null,null,8305,Samsø,null
+null,null,null,null,8310,Tranbjerg J,null
+null,null,null,null,8320,Mårslet,null
+null,null,null,null,8330,Beder,null
+null,null,null,null,8340,Malling,null
+null,null,null,null,8350,Hundslund,null
+null,null,null,null,8355,Solbjerg,null
+null,null,null,null,8361,Hasselager,null
+null,null,null,null,8362,Hørning,null
+null,null,null,null,8370,Hadsten,null
+null,null,null,null,8380,Trige,null
+null,null,null,null,8381,Tilst,null
+null,null,null,null,8382,Hinnerup,null
+null,null,null,null,8400,Ebeltoft,null
+null,null,null,null,8410,Rønde,null
+null,null,null,null,8420,Knebel,null
+null,null,null,null,8444,Balle,null
+null,null,null,null,8450,Hammel,null
+null,null,null,null,8462,Harlev J,null
+null,null,null,null,8464,Galten,null
+null,null,null,null,8471,Sabro,null
+null,null,null,null,8472,Sporup,null
+null,null,null,null,8500,Grenaa,null
+null,null,null,null,8520,Lystrup,null
+null,null,null,null,8530,Hjortshøj,null
+null,null,null,null,8541,Skødstrup,null
+null,null,null,null,8543,Hornslet,null
+null,null,null,null,8544,Mørke,null
+null,null,null,null,8550,Ryomgård,null
+null,null,null,null,8560,Kolind,null
+null,null,null,null,8570,Trustrup,null
+null,null,null,null,8581,Nimtofte,null
+null,null,null,null,8585,Glesborg,null
+null,null,null,null,8586,Ørum Djurs,null
+null,null,null,null,8592,Anholt,null
+null,null,null,null,8600,Silkeborg,null
+null,null,null,null,8620,Kjellerup,null
+null,null,null,null,8632,Lemming,null
+null,null,null,null,8641,Sorring,null
+null,null,null,null,8643,Ans by,null
+null,null,null,null,8653,Them,null
+null,null,null,null,8654,Bryrup,null
+null,null,null,null,8660,Skanderborg,null
+null,null,null,null,8670,Låsby,null
+null,null,null,null,8680,Ry,null
+null,null,null,null,8700,Horsens,null
+null,null,null,null,8721,Daugård,null
+null,null,null,null,8722,Hedensted,null
+null,null,null,null,8723,Løsning,null
+null,null,null,null,8732,Hovedgård,null
+null,null,null,null,8740,Brædstrup,null
+null,null,null,null,8751,Gedved,null
+null,null,null,null,8752,Østbirk,null
+null,null,null,null,8762,Flemming,null
+null,null,null,null,8763,Rask Mølle,null
+null,null,null,null,8765,Klovborg,null
+null,null,null,null,8766,Nørre Snede,null
+null,null,null,null,8781,Stenderup,null
+null,null,null,null,8783,Hornsyld,null
+null,null,null,null,8800,Viborg,null
+null,null,null,null,8830,Tjele,null
+null,null,null,null,8831,Løgstrup,null
+null,null,null,null,8832,Skals,null
+null,null,null,null,8840,Rødkærsbro,null
+null,null,null,null,8850,Bjerringbro,null
+null,null,null,null,8860,Ulstrup,null
+null,null,null,null,8870,Langå,null
+null,null,null,null,8881,Thorsø,null
+null,null,null,null,8882,Fårvang,null
+null,null,null,null,8883,Gjern,null
+null,null,null,null,8900,Randers,null
+null,null,null,null,8950,Ørsted,null
+null,null,null,null,8961,Allingåbro,null
+null,null,null,null,8963,Auning,null
+null,null,null,null,8970,Havndal,null
+null,null,null,null,8981,Spenstrup,null
+null,null,null,null,8983,Gjerlev J,null
+null,null,null,null,8990,Fårup,null
+null,null,null,null,9000,Aalborg,null
+null,null,null,null,9200,Aalborg SV,null
+null,null,null,null,9210,Aalborg SØ,null
+null,null,null,null,9220,Aalborg Øst,null
+null,null,null,null,9230,Svenstrup J,null
+null,null,null,null,9240,Nibe,null
+null,null,null,null,9260,Gistrup,null
+null,null,null,null,9270,Klarup,null
+null,null,null,null,9280,Storvorde,null
+null,null,null,null,9293,Kongerslev,null
+null,null,null,null,9300,Sæby,null
+null,null,null,null,9310,Vodskov,null
+null,null,null,null,9320,Hjallerup,null
+null,null,null,null,9330,Dronninglund,null
+null,null,null,null,9340,Asaa,null
+null,null,null,null,9352,Dybvad,null
+null,null,null,null,9362,Gandrup,null
+null,null,null,null,9370,Hals,null
+null,null,null,null,9380,Vestbjerg,null
+null,null,null,null,9381,Sulsted,null
+null,null,null,null,9382,Tylstrup,null
+null,null,null,null,9400,Nørresundby,null
+null,null,null,null,9430,Vadum,null
+null,null,null,null,9440,Aabybro,null
+null,null,null,null,9460,Brovst,null
+null,null,null,null,9480,Løkken,null
+null,null,null,null,9490,Pandrup,null
+null,null,null,null,9492,Blokhus,null
+null,null,null,null,9493,Saltum,null
+null,null,null,null,9500,Hobro,null
+null,null,null,null,9510,Arden,null
+null,null,null,null,9520,Skørping,null
+null,null,null,null,9530,Støvring,null
+null,null,null,null,9541,Suldrup,null
+null,null,null,null,9550,Mariager,null
+null,null,null,null,9560,Hadsund,null
+null,null,null,null,9574,Bælum,null
+null,null,null,null,9575,Terndrup,null
+null,null,null,null,9600,Aars,null
+null,null,null,null,9610,Nørager,null
+null,null,null,null,9620,Aalestrup,null
+null,null,null,null,9631,Gedsted,null
+null,null,null,null,9632,Møldrup,null
+null,null,null,null,9640,Farsø,null
+null,null,null,null,9670,Løgstør,null
+null,null,null,null,9681,Ranum,null
+null,null,null,null,9690,Fjerritslev,null
+null,null,null,null,9700,Brønderslev,null
+null,null,null,null,9740,Jerslev J,null
+null,null,null,null,9750,Øster Vrå,null
+null,null,null,null,9760,Vrå,null
+null,null,null,null,9800,Hjørring,null
+null,null,null,null,9830,Tårs,null
+null,null,null,null,9850,Hirtshals,null
+null,null,null,null,9870,Sindal,null
+null,null,null,null,9881,Bindslev,null
+null,null,null,null,9900,Frederikshavn,null
+null,null,null,null,9940,Læsø,null
+null,null,null,null,9970,Strandby,null
+null,null,null,null,9981,Jerup,null
+null,null,null,null,9982,Ålbæk,null
+null,null,null,null,9990,Skagen,null
